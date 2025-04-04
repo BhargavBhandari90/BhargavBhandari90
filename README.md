@@ -1,5 +1,3 @@
-# Bhargav Bhandari - A WordPress Developer
-
 ## 🚀 About Me
 
 I'm a PHP/WordPress Backend Developer with 12+ years of experience in building custom WordPress solutions based in Bilimora, Gujarat, India (UTC+5:30).
