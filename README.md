@@ -16,10 +16,7 @@ I'm a PHP/WordPress Backend Developer with 12+ years of experience in building c
 | Platform | Profile |
 |----------|---------|
 | **LinkedIn** | [LinkedIn Profile](https://linkedin.com/in/yourprofile) |
-| **GitHub** | [GitHub Profile](https://github.com/BhargavBhandari90) |
 | **WordPress.org** | [WordPress.org Profile](https://profiles.wordpress.org/yourprofile) |
-| **YouTube** | [YouTube Channel](https://youtube.com/c/yourchannel) |
-| **Twitter** | [Twitter Profile](https://twitter.com/yourhandle) |
 
 ## 💼 Professional Experience
 
