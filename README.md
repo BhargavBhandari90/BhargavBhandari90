@@ -2,12 +2,17 @@
 
 I'm a PHP/WordPress Backend Developer with 12+ years of experience in building custom WordPress solutions based in Bilimora, Gujarat, India (UTC+5:30).
 
+## 📞 Contact Information
+
+- **Email:** [bn.bhandari90@gmail.com](mailto:bn.bhandari90@gmail.com)
+- **Time Zone:** UTC+5:30
+
 ## 💻 Technical Skills
 
 | Category | Skills |
 |----------|--------|
-| **Web Technologies** | HTML5, CSS3, JavaScript, PHP, MySQL, REST API |
-| **WordPress** | Theme Development, Plugin Development, Block Editor (Gutenberg), WP-CLI |
+| **Web Technologies** | HTML5, CSS3, JavaScript, PHP, MySQL |
+| **WordPress** | Theme Development, Plugin Development, REST API, Block Editor (Gutenberg), WP-CLI |
 | **Development Tools** | Git, SVN, npm, Composer, Docker, CI/CD |
 | **Frontend** | ReactJS, jQuery, CSS/SCSS |
 
@@ -68,12 +73,7 @@ I'm a PHP/WordPress Backend Developer with 12+ years of experience in building c
 
 ## 🎓 Education
 
-**Government Engineering College, Modasa — Computer Engineering** *(2008 - 2012)*
-
-## 📞 Contact Information
-
-- **Email:** [bn.bhandari90@gmail.com](mailto:bn.bhandari90@gmail.com)
-- **Time Zone:** UTC+5:30
+**Government Engineering College, Modasa — Bachelor of Computer Engineering** *(2008 - 2012)*
 
 ## 🌐 Languages
 
