@@ -61,7 +61,7 @@ I'm a PHP/WordPress Backend Developer with 12+ years of experience in building c
 
 | Project | Description | Technologies | Links |
 |---------|-------------|--------------|-------|
-| **Experience Block** | Custom block for showcasing work experience similar to LinkedIn. Features include title, company name, duration, description, and drag-and-drop ordering. | WordPress, Gutenberg, React | [WordPress Plugin Directory](https://wordpress.org/plugins/experience-block/) |
+| **[Experience Block](https://github.com/BhargavBhandari90/experience-block)** | Custom block for showcasing work experience similar to LinkedIn. Features include title, company name, duration, description, and drag-and-drop ordering. | WordPress, Gutenberg, React | [WordPress Plugin Directory](https://wordpress.org/plugins/experience-block/) |
 | **Polls Block** | Gutenberg block for creating and managing polls with real-time results and styling controls. | PHP, React, JavaScript, WordPress Interactivity API | [GitHub Repository](https://github.com/BhargavBhandari90/polls-block) |
 | **BuddyPress AI Responder** | AI-powered autoresponder for BuddyPress activity streams integrated with Gemini AI. | PHP, WordPress, BuddyPress, Gemini AI | [GitHub Repository](https://github.com/BhargavBhandari90/bp-ai-responder) |
 | **Thread Block** | Static block mimicking Twitter threads with left-side image and right-side text. Includes "Add More" functionality for additional thread sections. | WordPress, Gutenberg, React | [GitHub Repository](https://github.com/BhargavBhandari90/thread-block) |
