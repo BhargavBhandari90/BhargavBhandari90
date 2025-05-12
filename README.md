@@ -20,8 +20,8 @@ I'm a PHP/WordPress Backend Developer with 12+ years of experience in building c
 
 | Platform | Profile |
 |----------|---------|
-| **LinkedIn** | [LinkedIn Profile](https://linkedin.com/in/yourprofile) |
-| **WordPress.org** | [WordPress.org Profile](https://profiles.wordpress.org/yourprofile) |
+| **LinkedIn** | [LinkedIn Profile](https://www.linkedin.com/in/bhargav-bhandari-2b10a044/) |
+| **WordPress.org** | [WordPress.org Profile](https://profiles.wordpress.org/bhargavbhandari90/) |
 
 ## 💼 Professional Experience
 
