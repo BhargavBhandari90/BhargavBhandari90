@@ -12,7 +12,7 @@ I'm a PHP/WordPress Backend Developer with 12+ years of experience in building c
 | Category | Skills |
 |----------|--------|
 | **Web Technologies** | HTML5, CSS3, JavaScript, PHP, MySQL |
-| **WordPress** | Theme Development, Plugin Development, REST API, Block Editor (Gutenberg), WP-CLI |
+| **WordPress** | Plugin & Theme Development, REST API, Block Editor (Gutenberg), WP-CLI, e2e test |
 | **Development Tools** | Git, SVN, npm, Composer, Docker, CI/CD |
 | **Frontend** | ReactJS, jQuery, CSS/SCSS |
 
