@@ -19,7 +19,7 @@ Outside of development, I enjoy riding my bike and playing PlayStation games—a
 | **Web Technologies** | HTML5, CSS3, JavaScript, PHP, MySQL |
 | **WordPress** | Plugin & Theme Development, REST API, Block Editor (Gutenberg), WP-CLI, e2e test |
 | **Development Tools** | Git, SVN, npm, Composer, Docker, CI/CD |
-| **Frontend** | ReactJS, jQuery, CSS/SCSS |
+| **Frontend** | ReactJS, jQuery, CSS/SCSS, Figma to HTML |
 
 ## 📱 Online Presence
 
