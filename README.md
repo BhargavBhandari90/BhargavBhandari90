@@ -1,10 +1,10 @@
 ## 🚀 About Me
 
-I am a passionate WordPress developer from Bilimora (Gujarat, India) with over a decade of experience in web development. My journey began as a PHP developer working with Magento and Joomla, but in 2014, I discovered WordPress—and I’ve never looked back. Since then, I’ve contributed to the WordPress ecosystem as a core contributor and have worked on WP-CLI.
+I am a passionate WordPress developer from Bilimora (Gujarat, India) with over a decade of experience in web development. My journey began as a PHP developer working with Magento and Joomla, but in 2014, I discovered WordPress—and I've never looked back. Since then, I've contributed to the WordPress ecosystem as a core contributor and have worked on WP-CLI.
 
-In 2018, I transitioned to remote work and have been thriving in a distributed environment ever since. I’m deeply passionate about remote collaboration, which allows me to stay productive and flexible while working with teams across the globe.
+In 2018, I transitioned to remote work and have been thriving in a distributed environment ever since. I'm deeply passionate about remote collaboration, which allows me to stay productive and flexible while working with teams across the globe.
 
-Lately, I’ve been focused on creating custom WordPress blocks, exploring the Gutenberg editor, and building intuitive, user-friendly block-based solutions. I also run a YouTube channel with over 2,000 subscribers, where I regularly share tutorials, tips, and insights to help others master WordPress.
+Lately, I've been focused on creating custom WordPress blocks, exploring the Gutenberg editor, and building intuitive, user-friendly block-based solutions. I also run a YouTube channel with over 2000 subscribers, where I regularly share tutorials, tips, and insights to help others master WordPress.
 
 Outside of development, I enjoy riding my bike and playing PlayStation games—activities that keep me inspired and energized.
 ## 📞 Contact Information
@@ -81,7 +81,7 @@ Outside of development, I enjoy riding my bike and playing PlayStation games—a
 
 ## 🎓 Education
 
-**Government Engineering College, Modasa — Bachelor of Computer Engineering** *(2008 - 2012)*
+**Government Engineering College, Modasa - Bachelor of Computer Engineering** *(2008 - 2012)*
 
 ## 🌐 Languages
 
