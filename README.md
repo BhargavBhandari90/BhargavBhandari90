@@ -37,7 +37,7 @@ Outside of development, I enjoy riding my bike and playing PlayStation games—a
 - Troubleshoot and resolve bugs, performance issues, and client-reported problems
 - Collaborate with clients to understand requirements, scope projects, and provide technical consulting
 
-#### **BuddyBoss LLC** *(Feb 2018 - Jan 2025)*
+#### **BuddyBoss LLC (Remote)** *(Feb 2018 - Jan 2025)*
 - Develop and customize WordPress websites, themes, and plugins using WooCommerce, LearnDash, ACF, BuddyBoss and WordPress Blocks
 - Collaborate with the team leader to execute tasks efficiently and ensure smooth project delivery
 - Analyze client requirements, scope projects, and conduct research & development to implement effective solutions
