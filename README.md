@@ -6,7 +6,7 @@ In 2018, I transitioned to remote work and have been thriving in a distributed e
 
 Lately, I've been focused on creating custom WordPress blocks, exploring the Gutenberg editor, and building intuitive, user-friendly block-based solutions. I also run a YouTube channel with over 2000 subscribers, where I regularly share tutorials, tips, and insights to help others master WordPress.
 
-Outside of development, I enjoy riding my bike and playing PlayStation games—activities that keep me inspired and energized.
+Outside of development, I enjoy riding my bike and playing PlayStation games - activities that keep me inspired and energized.
 ## 📞 Contact Information
 
 - **Email:** [bn.bhandari90@gmail.com](mailto:bn.bhandari90@gmail.com)
